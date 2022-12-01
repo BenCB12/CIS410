@@ -1,0 +1,6 @@
+C:\Users\bsieb\OneDrive\Documents\Papers\CIS 199\Program1\Program1\bin\Debug\Program1.exe.config
+C:\Users\bsieb\OneDrive\Documents\Papers\CIS 199\Program1\Program1\bin\Debug\Program1.exe
+C:\Users\bsieb\OneDrive\Documents\Papers\CIS 199\Program1\Program1\bin\Debug\Program1.pdb
+C:\Users\bsieb\OneDrive\Documents\Papers\CIS 199\Program1\Program1\obj\Debug\Program1.csprojAssemblyReference.cache
+C:\Users\bsieb\OneDrive\Documents\Papers\CIS 199\Program1\Program1\obj\Debug\Program1.exe
+C:\Users\bsieb\OneDrive\Documents\Papers\CIS 199\Program1\Program1\obj\Debug\Program1.pdb

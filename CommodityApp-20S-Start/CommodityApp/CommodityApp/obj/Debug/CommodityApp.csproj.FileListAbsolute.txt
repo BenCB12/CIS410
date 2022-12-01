@@ -1,0 +1,13 @@
+C:\Users\R0SUND02\Desktop\CommodityApp\CommodityApp\obj\Debug\CommodityApp.csprojAssemblyReference.cache
+C:\Users\R0SUND02\Desktop\CommodityApp\CommodityApp\obj\Debug\CommodityApp.csproj.CoreCompileInputs.cache
+C:\Users\R0SUND02\Desktop\CommodityApp\CommodityApp\bin\Debug\CommodityApp.exe.config
+C:\Users\R0SUND02\Desktop\CommodityApp\CommodityApp\bin\Debug\CommodityApp.exe
+C:\Users\R0SUND02\Desktop\CommodityApp\CommodityApp\bin\Debug\CommodityApp.pdb
+C:\Users\R0SUND02\Desktop\CommodityApp\CommodityApp\obj\Debug\CommodityApp.exe
+C:\Users\R0SUND02\Desktop\CommodityApp\CommodityApp\obj\Debug\CommodityApp.pdb
+C:\Users\bsieb\OneDrive\Documents\Papers\CIS 199\CommodityApp-20S-Start\CommodityApp\CommodityApp\obj\Debug\CommodityApp.csprojAssemblyReference.cache
+C:\Users\bsieb\OneDrive\Documents\Papers\CIS 199\CommodityApp-20S-Start\CommodityApp\CommodityApp\obj\Debug\CommodityApp.exe
+C:\Users\bsieb\OneDrive\Documents\Papers\CIS 199\CommodityApp-20S-Start\CommodityApp\CommodityApp\obj\Debug\CommodityApp.pdb
+C:\Users\bsieb\OneDrive\Documents\UofL\CIS 410\FinalPortfolioDocuments\CIS 199\CommodityApp-20S-Start\CommodityApp\CommodityApp\obj\Debug\CommodityApp.csprojAssemblyReference.cache
+C:\Users\bsieb\OneDrive\Documents\UofL\CIS 410\FinalPortfolioDocuments\CIS 199\CommodityApp-20S-Start\CommodityApp\CommodityApp\obj\Debug\CommodityApp.exe
+C:\Users\bsieb\OneDrive\Documents\UofL\CIS 410\FinalPortfolioDocuments\CIS 199\CommodityApp-20S-Start\CommodityApp\CommodityApp\obj\Debug\CommodityApp.pdb
